@@ -11,6 +11,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(193, 198, 229);
 }
 .calculator{
     background-color: #e3e6e9db;
